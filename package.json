@@ -1,6 +1,19 @@
 {
   "name": "bored-elon",
   "version": "0.1.0",
+  "author": "Metagate Games <digiworlds@protonmail.com> (https://www.ghostdrive.com/about)",
+  "license": "MIT",
+  "keywords": [
+    "ethereum",
+    "react",
+    "metaverse",
+    "workspaces",
+    "yarn",
+    "ghost drive",
+    "metagate games",
+    "digiworlds",
+    "ipfs"
+  ],
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
