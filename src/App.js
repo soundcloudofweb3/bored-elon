@@ -1,5 +1,4 @@
 import logo from './logo.svg';
-import background from "./backgroundimage.jpg";
 import './App.css';
 
 
