@@ -1,13 +1,16 @@
 import logo from './logo.svg';
+import background from "./backgroundimage.jpg";
 import './App.css';
+
 
 function App() {
   return (
     <div className="App">
+
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        
         <p>
-          Bored Elon Unicorn club<code>src/App.js</code> .
+          Bored Elon Unicorn club for whales <code>src/App.js</code> .
         </p>
         <a
           className="App-link"
@@ -18,6 +21,8 @@ function App() {
           
         </a>
       </header>
+      
+
     </div>
   );
 }
